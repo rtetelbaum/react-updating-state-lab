@@ -40,8 +40,6 @@ Don't forget to remove these before you begin building the second component!
 
 ## Debugging YouTube
 
-![Spock](https://media.giphy.com/media/fECTyvPYevOHC/giphy.gif)
-
 You can only count so many jumps, hula-hoop rotations, and hot dogs being
 devoured before you go insane. Time to move on from our record judge job to
 greener pastures! Not to worry, we've secured ourselves a gig at YouTube this
